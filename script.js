@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 
-  const startMessage = "Click here to see the motion baby";
+  const startMessage = "Vay vay vay demet abla hoşşşgeldin";
   let startTextContent = '';
   let startIndex = 0;
   let startCursorVisible = true;
@@ -201,7 +201,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
 
-  const name = "JAQLIV";
+  const name = "kimiarioxo";
   let nameText = '';
   let nameIndex = 0;
   let isNameDeleting = false;
